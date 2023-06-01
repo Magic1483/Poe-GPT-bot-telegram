@@ -1,0 +1,4 @@
+start - запуск
+change_model - изменить модель GPT
+change_jailbreak -  jailbreak для ChatGPT
+profile - информация о пользователе
