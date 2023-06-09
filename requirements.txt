@@ -1,0 +1,8 @@
+peewee==3.16.2
+poe==0.0.1
+poe_api==0.4.3
+pydub==0.25.1
+Pyrogram==2.0.102
+python_telegram_bot==20.3
+SpeechRecognition==3.10.0
+telegram==0.0.1
